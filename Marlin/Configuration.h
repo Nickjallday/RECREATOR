@@ -916,15 +916,19 @@
  * Default Axis Steps Per Unit (steps/mm)
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K]]], E0 [, E1[, E2...]]
+ * 
+ * Rereator 3D spool diameter of 51 mm and 200-step/16-microstep motor works out to 199.7239 steps/mm
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 110 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 199.7239 }
 
 /**
  * Default Max Feed Rate (mm/s)
  * Override with M203
  *                                      X, Y, Z [, I [, J [, K]]], E0 [, E1[, E2...]]
+ * 
+ * Recreator max speed is around 200, though tuned systems might go faster
  */
-#define DEFAULT_MAX_FEEDRATE          { 200, 200, 4, 60 }
+#define DEFAULT_MAX_FEEDRATE          { 200, 200, 4, 200 }
 
 //#define LIMITED_MAX_FR_EDITING        // Limit edit via M203 or LCD to DEFAULT_MAX_FEEDRATE * 2
 #if ENABLED(LIMITED_MAX_FR_EDITING)
