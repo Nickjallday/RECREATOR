@@ -18,7 +18,6 @@ current configuration_adv.h reflects dual motor mini spool configuration.
 
 current configuration.h reflects dual motor mini spool configuration.
  
-* Recreator 3D Big spool diameter of 51 mm and 200-step/16-microstep motor works out to 199.7239 steps/mm
-* Recreator 3D Mini spool appox E137.5
-*/
+//Recreator 3D Big spool diameter of 51 mm and 200-step/16-microstep motor works out to 199.7239 steps/mm
+// Recreator 3D Mini spool appox E137.5
 #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 137.5 }
