@@ -78,8 +78,8 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h \
- Marlin\src\lcd\tft_io\../../inc/../HAL/./STM32F1/../../core/serial_hook.h \
- Marlin\src\lcd\tft_io\../../inc/../HAL/./STM32F1/../../core/serial_base.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\serial_hook.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\serial_base.h \
  Marlin\src\lcd\tft_io\../../inc/../pins/pins.h \
  Marlin\src\lcd\tft_io\../../inc/../pins/stm32f1/pins_MKS_ROBIN_NANO.h \
  Marlin\src\lcd\tft_io\../../inc/../pins/pins_postprocess.h \
@@ -104,7 +104,7 @@
  Marlin\src\lcd\tft_io\../../core/debug_out.h \
  Marlin\src\lcd\tft_io\../../module/settings.h \
  Marlin\src\lcd\tft_io\../../module/../HAL/shared/eeprom_api.h \
- Marlin\src\lcd\tft_io\../../module/../HAL/shared/../../libs/crc16.h
+ c:\users\nicho\documents\github\recreator\marlin\src\libs\crc16.h
 
 Marlin\src\lcd\tft_io\../../inc/MarlinConfig.h:
 
@@ -262,9 +262,9 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h:
 
-Marlin\src\lcd\tft_io\../../inc/../HAL/./STM32F1/../../core/serial_hook.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\serial_hook.h:
 
-Marlin\src\lcd\tft_io\../../inc/../HAL/./STM32F1/../../core/serial_base.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\serial_base.h:
 
 Marlin\src\lcd\tft_io\../../inc/../pins/pins.h:
 
@@ -316,4 +316,4 @@ Marlin\src\lcd\tft_io\../../module/settings.h:
 
 Marlin\src\lcd\tft_io\../../module/../HAL/shared/eeprom_api.h:
 
-Marlin\src\lcd\tft_io\../../module/../HAL/shared/../../libs/crc16.h:
+c:\users\nicho\documents\github\recreator\marlin\src\libs\crc16.h:

@@ -18,7 +18,7 @@
  Marlin\src\HAL\shared\../../core/../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\HAL\shared\../../core/../inc/../HAL/HAL.h \
  Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/HAL.h \
- Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/../shared/Marduino.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\marduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/wirish.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/WString.h \
@@ -69,9 +69,9 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/tone.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h \
- Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/../shared/progmem.h \
- Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/../shared/math_32bit.h \
- Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\progmem.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\math_32bit.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\hal_spi.h \
  Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -80,8 +80,8 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h \
- c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\core\serial_hook.h \
- c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\core\serial_base.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\serial_hook.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\serial_base.h \
  Marlin\src\HAL\shared\../../core/../inc/../pins/pins.h \
  Marlin\src\HAL\shared\../../core/../inc/../pins/stm32f1/pins_MKS_ROBIN_NANO.h \
  Marlin\src\HAL\shared\../../core/../inc/../pins/pins_postprocess.h \
@@ -134,7 +134,7 @@ Marlin\src\HAL\shared\../../core/../inc/../HAL/HAL.h:
 
 Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/HAL.h:
 
-Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/../shared/Marduino.h:
+c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\marduino.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h:
 
@@ -236,11 +236,11 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h:
 
-Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/../shared/progmem.h:
+c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\progmem.h:
 
-Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/../shared/math_32bit.h:
+c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\math_32bit.h:
 
-Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
+c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\hal_spi.h:
 
 Marlin\src\HAL\shared\../../core/../inc/../HAL/./STM32F1/fastio.h:
 
@@ -258,9 +258,9 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h:
 
-c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\core\serial_hook.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\serial_hook.h:
 
-c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\core\serial_base.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\serial_base.h:
 
 Marlin\src\HAL\shared\../../core/../inc/../pins/pins.h:
 

@@ -916,10 +916,11 @@
  * Default Axis Steps Per Unit (steps/mm)
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K]]], E0 [, E1[, E2...]]
- * 
- * Rereator 3D spool diameter of 51 mm and 200-step/16-microstep motor works out to 199.7239 steps/mm
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 199.7239 }
+// Recreator 3D Big spool diameter of 51 mm and 200-step/16-microstep motor works out to 199.7239 steps/mm
+// Recreator 3D Mini spool appox E137.5
+
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 137.5 }
 
 /**
  * Default Max Feed Rate (mm/s)

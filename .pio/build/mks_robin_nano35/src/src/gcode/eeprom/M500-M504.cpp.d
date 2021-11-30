@@ -78,8 +78,8 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h \
- Marlin\src\gcode\eeprom\../../inc/../HAL/./STM32F1/../../core/serial_hook.h \
- Marlin\src\gcode\eeprom\../../inc/../HAL/./STM32F1/../../core/serial_base.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\serial_hook.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\serial_base.h \
  Marlin\src\gcode\eeprom\../../inc/../pins/pins.h \
  Marlin\src\gcode\eeprom\../../inc/../pins/stm32f1/pins_MKS_ROBIN_NANO.h \
  Marlin\src\gcode\eeprom\../../inc/../pins/pins_postprocess.h \
@@ -99,7 +99,7 @@
  Marlin\src\gcode\eeprom\../parser.h \
  Marlin\src\gcode\eeprom\../../module/settings.h \
  Marlin\src\gcode\eeprom\../../module/../HAL/shared/eeprom_api.h \
- Marlin\src\gcode\eeprom\../../module/../HAL/shared/../../libs/crc16.h
+ c:\users\nicho\documents\github\recreator\marlin\src\libs\crc16.h
 
 Marlin\src\gcode\eeprom\../gcode.h:
 
@@ -259,9 +259,9 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h:
 
-Marlin\src\gcode\eeprom\../../inc/../HAL/./STM32F1/../../core/serial_hook.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\serial_hook.h:
 
-Marlin\src\gcode\eeprom\../../inc/../HAL/./STM32F1/../../core/serial_base.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\serial_base.h:
 
 Marlin\src\gcode\eeprom\../../inc/../pins/pins.h:
 
@@ -301,4 +301,4 @@ Marlin\src\gcode\eeprom\../../module/settings.h:
 
 Marlin\src\gcode\eeprom\../../module/../HAL/shared/eeprom_api.h:
 
-Marlin\src\gcode\eeprom\../../module/../HAL/shared/../../libs/crc16.h:
+c:\users\nicho\documents\github\recreator\marlin\src\libs\crc16.h:

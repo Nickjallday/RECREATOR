@@ -293,7 +293,7 @@ void MarlinUI::draw_status_screen() {
   //tft.add_text(32, 6, color , tft_string);
   //TERN_(TOUCH_SCREEN, touch.add_control(FEEDRATE, 70, 136, 80, 32));
 
-  // flow rate ---- COMMENTED OUT FOR 3D RECREATOR
+  // flow rate ---- changed to commanded extruded filament
   tft.canvas(110, 136, 85, 32);
   tft.set_background(COLOR_BACKGROUND);
   //color = planner.flow_percentage[0] == 100 ? COLOR_RATE_100 : COLOR_RATE_ALTERED;

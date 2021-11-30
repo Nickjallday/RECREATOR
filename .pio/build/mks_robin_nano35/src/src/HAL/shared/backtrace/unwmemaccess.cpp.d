@@ -8,18 +8,18 @@
  Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/platforms.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../core/macros.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../core/boards.h \
- Marlin\src\HAL\shared\backtrace\../../../inc/../../Configuration.h \
- Marlin\src\HAL\shared\backtrace\../../../inc/../../Version.h \
+ c:\users\nicho\documents\github\recreator\marlin\configuration.h \
+ c:\users\nicho\documents\github\recreator\marlin\version.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/Version.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/Conditionals_LCD.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../core/drivers.h \
- Marlin\src\HAL\shared\backtrace\../../../inc/../../Configuration_adv.h \
+ c:\users\nicho\documents\github\recreator\marlin\configuration_adv.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/Conditionals_adv.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/HAL.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/./STM32F1/HAL.h \
- c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\hal\shared\marduino.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\marduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/wirish.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/WString.h \
@@ -70,9 +70,9 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/tone.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h \
- c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\hal\shared\progmem.h \
- c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\hal\shared\math_32bit.h \
- c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\hal\shared\hal_spi.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\progmem.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\math_32bit.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\hal_spi.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -81,8 +81,8 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h \
- c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\core\serial_hook.h \
- c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\core\serial_base.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\serial_hook.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\serial_base.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../pins/pins.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../pins/stm32f1/pins_MKS_ROBIN_NANO.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../pins/pins_postprocess.h \
@@ -95,9 +95,9 @@
  Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/STM32F1/inc/SanityCheck.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../core/language.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../core/multi_language.h \
- Marlin\src\HAL\shared\backtrace\../../../inc/../core/../lcd/language/language_en.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\lcd\language\language_en.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../core/utility.h \
- Marlin\src\HAL\shared\backtrace\../../../inc/../core/../core/millis_t.h \
+ c:\users\nicho\documents\github\recreator\marlin\src\core\millis_t.h \
  Marlin\src\HAL\shared\backtrace\../../../inc/../core/serial.h
 
 Marlin\src\HAL\shared\backtrace\unwmemaccess.h:
@@ -116,9 +116,9 @@ Marlin\src\HAL\shared\backtrace\../../../inc/../core/macros.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/../core/boards.h:
 
-Marlin\src\HAL\shared\backtrace\../../../inc/../../Configuration.h:
+c:\users\nicho\documents\github\recreator\marlin\configuration.h:
 
-Marlin\src\HAL\shared\backtrace\../../../inc/../../Version.h:
+c:\users\nicho\documents\github\recreator\marlin\version.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/Version.h:
 
@@ -128,7 +128,7 @@ Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/STM32F1/inc/Conditionals_LCD
 
 Marlin\src\HAL\shared\backtrace\../../../inc/../core/drivers.h:
 
-Marlin\src\HAL\shared\backtrace\../../../inc/../../Configuration_adv.h:
+c:\users\nicho\documents\github\recreator\marlin\configuration_adv.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/Conditionals_adv.h:
 
@@ -138,7 +138,7 @@ Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/HAL.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/./STM32F1/HAL.h:
 
-c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\hal\shared\marduino.h:
+c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\marduino.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h:
 
@@ -240,11 +240,11 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h:
 
-c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\hal\shared\progmem.h:
+c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\progmem.h:
 
-c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\hal\shared\math_32bit.h:
+c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\math_32bit.h:
 
-c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\hal\shared\hal_spi.h:
+c:\users\nicho\documents\github\recreator\marlin\src\hal\shared\hal_spi.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/../HAL/./STM32F1/fastio.h:
 
@@ -262,9 +262,9 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h:
 
-c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\core\serial_hook.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\serial_hook.h:
 
-c:\users\nicho\desktop\recreator\ firmware\ v0.9\marlin\src\core\serial_base.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\serial_base.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/../pins/pins.h:
 
@@ -290,10 +290,10 @@ Marlin\src\HAL\shared\backtrace\../../../inc/../core/language.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/../core/multi_language.h:
 
-Marlin\src\HAL\shared\backtrace\../../../inc/../core/../lcd/language/language_en.h:
+c:\users\nicho\documents\github\recreator\marlin\src\lcd\language\language_en.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/../core/utility.h:
 
-Marlin\src\HAL\shared\backtrace\../../../inc/../core/../core/millis_t.h:
+c:\users\nicho\documents\github\recreator\marlin\src\core\millis_t.h:
 
 Marlin\src\HAL\shared\backtrace\../../../inc/../core/serial.h:

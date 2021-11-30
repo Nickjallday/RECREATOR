@@ -4,13 +4,13 @@
  Marlin\src\gcode\feature\password\../../../inc/../HAL/platforms.h \
  Marlin\src\gcode\feature\password\../../../inc/../core/macros.h \
  Marlin\src\gcode\feature\password\../../../inc/../core/boards.h \
- Marlin\src\gcode\feature\password\../../../inc/../../Configuration.h \
- Marlin\src\gcode\feature\password\../../../inc/../../Version.h \
+ c:\users\nicho\documents\github\recreator\marlin\configuration.h \
+ c:\users\nicho\documents\github\recreator\marlin\version.h \
  Marlin\src\gcode\feature\password\../../../inc/Version.h \
  Marlin\src\gcode\feature\password\../../../inc/Conditionals_LCD.h \
  Marlin\src\gcode\feature\password\../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\gcode\feature\password\../../../inc/../core/drivers.h \
- Marlin\src\gcode\feature\password\../../../inc/../../Configuration_adv.h \
+ c:\users\nicho\documents\github\recreator\marlin\configuration_adv.h \
  Marlin\src\gcode\feature\password\../../../inc/Conditionals_adv.h \
  Marlin\src\gcode\feature\password\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h
 
@@ -22,9 +22,9 @@ Marlin\src\gcode\feature\password\../../../inc/../core/macros.h:
 
 Marlin\src\gcode\feature\password\../../../inc/../core/boards.h:
 
-Marlin\src\gcode\feature\password\../../../inc/../../Configuration.h:
+c:\users\nicho\documents\github\recreator\marlin\configuration.h:
 
-Marlin\src\gcode\feature\password\../../../inc/../../Version.h:
+c:\users\nicho\documents\github\recreator\marlin\version.h:
 
 Marlin\src\gcode\feature\password\../../../inc/Version.h:
 
@@ -34,7 +34,7 @@ Marlin\src\gcode\feature\password\../../../inc/../HAL/STM32F1/inc/Conditionals_L
 
 Marlin\src\gcode\feature\password\../../../inc/../core/drivers.h:
 
-Marlin\src\gcode\feature\password\../../../inc/../../Configuration_adv.h:
+c:\users\nicho\documents\github\recreator\marlin\configuration_adv.h:
 
 Marlin\src\gcode\feature\password\../../../inc/Conditionals_adv.h:
 
