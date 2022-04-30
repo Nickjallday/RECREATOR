@@ -1,26 +1,14 @@
-Xvico X3s Conversion into a PET bottle Stripper/filament maker.
+Xvico 3xs Conversion Firmware - Completed and Verified
 
-Used a modifed version of Marlin configured for the Xvico MKS Robin Nano Clone.
+Ender 3 1.1.3 Board conversion - Coming Soon
 
+Ender 3 Silent Board - Coming Soon
 
+This firmware is for Josh Taylor's Recreator 3D.
+https://www.facebook.com/groups/recreator3d - Offical Facebook Group
+http://jrt3d.com/ - Office Website
 
-current configuration_adv.h reflects dual motor mini spool configuration.
-
-// Default Speed when extruding via Recreator 3D LCD screen.
-
-#define DEFAULT_MINIMUMFEEDRATE       5.0     // (mm/s) Minimum feedrate. Set with M205 S.
-
-// Recreator 3D MK3Lite and Pro can both run with E_DUAL_STEPPERS. 
-// Ensure 2nd E Motor Driver is not installed in the Lite Configuration (One E Motor).
-// Or comment out the following line to leave driver installed.
-
-#define E_DUAL_STEPPER_DRIVERS
+Credit to GreenEllipsis for the assistance in helping me finish the X3s conversion Firmware. The x3s conversion Firmware is used as a base firmware for all other boards.
+https://github.com/GreenEllipsis/RECREATOR
 
 
-
-current configuration.h reflects dual motor mini spool configuration.
- 
-//Recreator 3D Big spool diameter of 51 mm and 200-step/16-microstep motor works out to 199.7239 steps/mm
-// Recreator 3D Mini spool appox E137.5
-
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 137.5 }
