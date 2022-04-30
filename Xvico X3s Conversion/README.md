@@ -2,6 +2,9 @@ Xvico X3s Conversion into a PET bottle Stripper/filament maker.
 
 Used a modifed version of Marlin configured for the Xvico MKS Robin Nano Clone.
 
+If you're just looking for the .bin to flash your Recreator it's located at:
+\.pio\build\mks_robin_nano35\Xvico.bin
+
 This firmware is for Josh Taylor's Recreator 3D.
 https://www.facebook.com/groups/recreator3d - Offical Facebook Group
 http://jrt3d.com/ - Office Website
