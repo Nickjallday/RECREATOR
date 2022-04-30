@@ -2,43 +2,43 @@
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\media_file_reader.cpp \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../config.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/MarlinConfigPre.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\platforms.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\macros.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\boards.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\version.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../HAL/platforms.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../core/macros.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../core/boards.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\configuration.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\version.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/Version.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/Conditionals_LCD.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\inc\conditionals_lcd.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\drivers.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration_adv.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../core/drivers.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\configuration_adv.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/Conditionals_adv.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\inc\conditionals_adv.h
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../config.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/MarlinConfigPre.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\platforms.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../HAL/platforms.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\macros.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../core/macros.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\boards.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../core/boards.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\configuration.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\version.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\version.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/Version.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/Conditionals_LCD.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\inc\conditionals_lcd.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\drivers.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../core/drivers.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration_adv.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\configuration_adv.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/Conditionals_adv.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\inc\conditionals_adv.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\archim2-flash\../../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h:

@@ -6,18 +6,18 @@
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/platforms.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/macros.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/boards.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\version.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../../Configuration.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../../Version.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/Version.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/Conditionals_LCD.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/drivers.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration_adv.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../../Configuration_adv.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/Conditionals_adv.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/HAL.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\hal.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\shared\marduino.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/./STM32F1/HAL.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\hal\shared\marduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/wirish.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/WString.h \
@@ -68,19 +68,19 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/tone.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\shared\progmem.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\shared\math_32bit.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\shared\hal_spi.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\fastio.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\watchdog.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\hal\shared\progmem.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\hal\shared\math_32bit.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\hal\shared\hal_spi.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/./STM32F1/fastio.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/iwdg.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/util/atomic.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\MarlinSerial.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/./STM32F1/MarlinSerial.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\serial_hook.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\serial_base.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\core\serial_hook.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\core\serial_base.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../pins/pins.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../pins/stm32f1/pins_MKS_ROBIN_NANO.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../pins/pins_postprocess.h \
@@ -93,9 +93,9 @@
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/STM32F1/inc/SanityCheck.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/language.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/multi_language.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\lcd\language\language_en.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\lcd\language\language_en.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/utility.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\millis_t.h \
+ c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\core\millis_t.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/serial.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\language.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\language_en.h
@@ -112,9 +112,9 @@ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/macros.h
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/boards.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../../Configuration.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\version.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../../Version.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/Version.h:
 
@@ -124,7 +124,7 @@ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/STM32F1/i
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/drivers.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration_adv.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../../Configuration_adv.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/Conditionals_adv.h:
 
@@ -132,9 +132,9 @@ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/STM32F1/i
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/HAL.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\hal.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/./STM32F1/HAL.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\shared\marduino.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\hal\shared\marduino.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h:
 
@@ -236,21 +236,21 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\shared\progmem.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\hal\shared\progmem.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\shared\math_32bit.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\hal\shared\math_32bit.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\shared\hal_spi.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\hal\shared\hal_spi.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\fastio.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/./STM32F1/fastio.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\watchdog.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/./STM32F1/watchdog.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/iwdg.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/util/atomic.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\hal\stm32f1\MarlinSerial.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../HAL/./STM32F1/MarlinSerial.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h:
 
@@ -258,9 +258,9 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\serial_hook.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\core\serial_hook.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\serial_base.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\core\serial_base.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../pins/pins.h:
 
@@ -286,11 +286,11 @@ Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/language
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/multi_language.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\lcd\language\language_en.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\lcd\language\language_en.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/utility.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\src\core\millis_t.h:
+c:\users\nicho\documents\github\recreator\xvico\ x3s\ conversion\marlin\src\core\millis_t.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\language\../../../../inc/../core/serial.h:
 

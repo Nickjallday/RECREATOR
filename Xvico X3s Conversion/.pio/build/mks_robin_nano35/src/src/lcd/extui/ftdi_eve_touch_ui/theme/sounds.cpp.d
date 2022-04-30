@@ -5,13 +5,13 @@
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../HAL/platforms.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../core/macros.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../core/boards.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\version.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../../Configuration.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../../Version.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/Version.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/Conditionals_LCD.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../core/drivers.h \
- c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration_adv.h \
+ Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../../Configuration_adv.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/Conditionals_adv.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h
 
@@ -25,9 +25,9 @@ Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../core/macros.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../core/boards.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../../Configuration.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\version.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../../Version.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/Version.h:
 
@@ -37,7 +37,7 @@ Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../HAL/STM32F1/inc/
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../core/drivers.h:
 
-c:\users\nicho\documents\github\recreator\x3s\ conversion\marlin\configuration_adv.h:
+Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/../../Configuration_adv.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\theme\../../../../inc/Conditionals_adv.h:
 
